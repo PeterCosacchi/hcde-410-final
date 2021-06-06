@@ -1,0 +1,5 @@
+Abstract:
+
+I analyzed 10,000 customers of an undisclosed banking company in terms of the demographics of gender, education level, credit card tier, income, and marital status to see if there were any explicit relationships between the demographics and the percentage of current vs retired credit card ownership.
+
+My findings indicated no explicity differentiating relationships; there was an average of 15% retird credit card owners vs current credit card owners that was consistent throughout every demographic. The demographic distributions were consistent with btoh American population data and other credit card ownership reports.
