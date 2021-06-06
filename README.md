@@ -13,7 +13,7 @@ The files within this folder include:
 
 Abstract.txt - A summarized version of my research and findings.
 
-BankChurners.csv - A data file containing 10,000 customer's information. This is the data used and treated in the report.
+BankChurners (1).csv - A data file containing 10,000 customer's information. This is the data used and treated in the report.
 
 Education.PNG - An image file displaying a graph of education level vs credit card ownership status.
 
